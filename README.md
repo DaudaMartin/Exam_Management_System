@@ -5,7 +5,7 @@
 """
 """
           BANK APP, CBT EXAM
-          Need to request User Access to data Base to (DaudaMartin24@gmail.com) or Create Personal DataBase or Make Modification To Database
+          Need to request User Access to data Base to (DaudaMartin24@gmail.com) or Create Personal DataBase and Make Modification to Code
 """
 """
           TEMPERATURE CONVERTER AND SET CONVERTER
