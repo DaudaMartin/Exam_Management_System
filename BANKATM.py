@@ -1,4 +1,3 @@
-from cProfile import run
 from sqlite3 import connect
 import mysql.connector as sql
 import pyttsx3 
